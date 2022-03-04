@@ -1,2 +1,3 @@
 # unity-fps-demo
-Sample project from Unity Learn (https://learn.unity.com/project/fps-template)
+Unity3D Sample Project, shoot the bad robots (https://learn.unity.com/project/fps-template)
+
